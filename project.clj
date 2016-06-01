@@ -1,4 +1,4 @@
-(defproject nes/lein-template "1.0.0"
+(defproject nex/lein-template "1.0.0"
   :description "A decluttered version of the default template."
   :url "https://github.com/fractalLabs/nes-template"
   :license {:name "Eclipse Public License"

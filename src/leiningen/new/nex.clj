@@ -1,11 +1,11 @@
-(ns leiningen.new.nes
+(ns leiningen.new.nex
   (:require [leiningen.new.templates :refer :all]
             [leiningen.core.main :as main]))
 
-(def render (renderer "nes"))
+(def render (renderer "nex"))
 
-(defn nes
-  "Forked from leins default template
+(defn nex
+  "Forked from fractalLabs/nes-template which is forked from leins default template
 
   Accepts a group id in the project name: `lein new nes-template foo.bar/baz`"
   [name]
