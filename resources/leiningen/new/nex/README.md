@@ -4,7 +4,7 @@ FIXME
 
 ## Usage
 
-Add `[{{raw-name}} "0.1.0-SNAPSHOT"]` to your `:dependencies` vector.
+Add `[{{raw-name}} "0.1.0-SNAPSHOT"]` to your `:dependencies` vector
 
 `(require '{{raw-name}}.core)`
 
